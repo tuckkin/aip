@@ -1,0 +1,22 @@
+### EDA
+pandas
+matplotlib
+seaborn
+#kagglehub
+fsspec
+huggingface_hub
+textblob
+
+### FINE_TUNING
+torch
+#flash_attn
+transformers
+datasets
+accelerate
+peft
+trl
+bitsandbytes
+wandb
+
+### Deployment
+kubernetes
